@@ -1,0 +1,29 @@
+body{
+    background: -webkit-linear-gradient(rgba(98,98,169,0.8), rgba(98,98,169,0.8)), url(/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Lato', sans-serif;
+}
+
+header{
+    margin-top: 50px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+#description{
+    font-size: 20px;
+}
+
+.survey{
+    background-color: rgba(43, 41, 70, 0.9);
+    /* opacity: 80%; */
+    padding: 40px;
+}
+
+label{
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+}
+
