@@ -1,5 +1,5 @@
 body{
-    background: -webkit-linear-gradient(rgba(98,98,169,0.8), rgba(98,98,169,0.8)), url(/bg.jpg);
+    background: -webkit-linear-gradient(rgba(98,98,169,0.8), rgba(98,98,169,0.8)), url(bg.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Lato', sans-serif;
